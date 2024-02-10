@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="WizardTD.FireballTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2023-10-27T11:50:51" hostname="teresadndiannao.student.wireless.sydney.edu.au" time="0.011">
+  <properties/>
+  <testcase name="testMoveWithoutDoubleSpeedAndPause()" classname="WizardTD.FireballTest" time="0.002"/>
+  <testcase name="testSetFireBallImage()" classname="WizardTD.FireballTest" time="0.0"/>
+  <testcase name="testMoveWithDoubleSpeedAndPause()" classname="WizardTD.FireballTest" time="0.001"/>
+  <testcase name="testDecreaseHPWithTargetHitAndLowRemainingHP()" classname="WizardTD.FireballTest" time="0.001"/>
+  <testcase name="testGetX()" classname="WizardTD.FireballTest" time="0.001"/>
+  <testcase name="testGetY()" classname="WizardTD.FireballTest" time="0.0"/>
+  <testcase name="testMove()" classname="WizardTD.FireballTest" time="0.0"/>
+  <testcase name="testGetFireBallImage()" classname="WizardTD.FireballTest" time="0.0"/>
+  <testcase name="testMoveWithDoubleSpeedAndPauseOff()" classname="WizardTD.FireballTest" time="0.001"/>
+  <testcase name="testGetFreeze()" classname="WizardTD.FireballTest" time="0.0"/>
+  <testcase name="testSetTarget()" classname="WizardTD.FireballTest" time="0.0"/>
+  <testcase name="testDecreaseHPWhenMonsterIsHit()" classname="WizardTD.FireballTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

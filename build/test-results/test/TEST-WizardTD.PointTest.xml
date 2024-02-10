@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="WizardTD.PointTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-10-27T11:50:51" hostname="teresadndiannao.student.wireless.sydney.edu.au" time="0.002">
+  <properties/>
+  <testcase name="testGetCol()" classname="WizardTD.PointTest" time="0.001"/>
+  <testcase name="testGetRow()" classname="WizardTD.PointTest" time="0.0"/>
+  <testcase name="testGetMovements()" classname="WizardTD.PointTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

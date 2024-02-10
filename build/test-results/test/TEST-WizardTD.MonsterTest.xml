@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="WizardTD.MonsterTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2023-10-27T11:50:51" hostname="teresadndiannao.student.wireless.sydney.edu.au" time="0.007">
+  <properties/>
+  <testcase name="testUpdateQuantity()" classname="WizardTD.MonsterTest" time="0.0"/>
+  <testcase name="testSetMonsterImage()" classname="WizardTD.MonsterTest" time="0.0"/>
+  <testcase name="testUpdateWithDoubleTime()" classname="WizardTD.MonsterTest" time="0.0"/>
+  <testcase name="testGetQuantityGenerate()" classname="WizardTD.MonsterTest" time="0.001"/>
+  <testcase name="testGetFixedSpeed()" classname="WizardTD.MonsterTest" time="0.0"/>
+  <testcase name="testFreezeTime()" classname="WizardTD.MonsterTest" time="0.001"/>
+  <testcase name="testChangeManaGainOnKill()" classname="WizardTD.MonsterTest" time="0.0"/>
+  <testcase name="testGetCurrentDeathFrame()" classname="WizardTD.MonsterTest" time="0.001"/>
+  <testcase name="testRestart()" classname="WizardTD.MonsterTest" time="0.0"/>
+  <testcase name="testFreeze()" classname="WizardTD.MonsterTest" time="0.001"/>
+  <testcase name="testDeathAnimation()" classname="WizardTD.MonsterTest" time="0.0"/>
+  <testcase name="testUpdateWithoutDoubleTimeOrPause()" classname="WizardTD.MonsterTest" time="0.0"/>
+  <testcase name="testInitialValues()" classname="WizardTD.MonsterTest" time="0.0"/>
+  <testcase name="testUpdateWithPause()" classname="WizardTD.MonsterTest" time="0.0"/>
+  <testcase name="testSetSpeed()" classname="WizardTD.MonsterTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

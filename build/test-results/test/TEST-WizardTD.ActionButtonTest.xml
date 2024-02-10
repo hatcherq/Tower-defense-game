@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="WizardTD.ActionButtonTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2023-10-27T11:50:51" hostname="teresadndiannao.student.wireless.sydney.edu.au" time="0.006">
+  <properties/>
+  <testcase name="TestXY()" classname="WizardTD.ActionButtonTest" time="0.0"/>
+  <testcase name="TestDisplay()" classname="WizardTD.ActionButtonTest" time="0.0"/>
+  <testcase name="TestIsMouseOver2()" classname="WizardTD.ActionButtonTest" time="0.0"/>
+  <testcase name="TestSetYellowOn()" classname="WizardTD.ActionButtonTest" time="0.0"/>
+  <testcase name="TestHotKey()" classname="WizardTD.ActionButtonTest" time="0.0"/>
+  <testcase name="TestMousePress()" classname="WizardTD.ActionButtonTest" time="0.001"/>
+  <testcase name="TestIsMouseOver()" classname="WizardTD.ActionButtonTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

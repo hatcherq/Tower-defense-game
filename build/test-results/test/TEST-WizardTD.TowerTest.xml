@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="WizardTD.TowerTest" tests="22" skipped="0" failures="0" errors="0" timestamp="2023-10-27T11:50:51" hostname="teresadndiannao.student.wireless.sydney.edu.au" time="0.012">
+  <properties/>
+  <testcase name="testGetInitialTowerDamage()" classname="WizardTD.TowerTest" time="0.001"/>
+  <testcase name="testUpgradeDamage()" classname="WizardTD.TowerTest" time="0.0"/>
+  <testcase name="testGetPositionX()" classname="WizardTD.TowerTest" time="0.0"/>
+  <testcase name="testGetPositionY()" classname="WizardTD.TowerTest" time="0.0"/>
+  <testcase name="testGetTowerCost()" classname="WizardTD.TowerTest" time="0.0"/>
+  <testcase name="testIsMonsterInRangeWithMultipleMonstersInRange()" classname="WizardTD.TowerTest" time="0.0"/>
+  <testcase name="testChangeTowerImage_fireball1()" classname="WizardTD.TowerTest" time="0.001"/>
+  <testcase name="testChangeTowerImage_fireball2()" classname="WizardTD.TowerTest" time="0.0"/>
+  <testcase name="testChangeTowerImage_Iceball1()" classname="WizardTD.TowerTest" time="0.0"/>
+  <testcase name="testChangeTowerImage_Iceball2()" classname="WizardTD.TowerTest" time="0.0"/>
+  <testcase name="testGetSpeedCost()" classname="WizardTD.TowerTest" time="0.0"/>
+  <testcase name="testUpgradeRange()" classname="WizardTD.TowerTest" time="0.001"/>
+  <testcase name="testUpgradeSpeed()" classname="WizardTD.TowerTest" time="0.0"/>
+  <testcase name="testChangeTowerImage_Fireball()" classname="WizardTD.TowerTest" time="0.0"/>
+  <testcase name="testGetDamageCost()" classname="WizardTD.TowerTest" time="0.0"/>
+  <testcase name="testGetInitialTowerFiringSpeed()" classname="WizardTD.TowerTest" time="0.001"/>
+  <testcase name="testGetRangeCost()" classname="WizardTD.TowerTest" time="0.0"/>
+  <testcase name="testGetInitialTowerRange()" classname="WizardTD.TowerTest" time="0.001"/>
+  <testcase name="testIsMonsterInRangeWithNoMonsters()" classname="WizardTD.TowerTest" time="0.0"/>
+  <testcase name="testIsMonsterisoutOfRange()" classname="WizardTD.TowerTest" time="0.0"/>
+  <testcase name="testGetFireBallList()" classname="WizardTD.TowerTest" time="0.0"/>
+  <testcase name="testSetTower()" classname="WizardTD.TowerTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

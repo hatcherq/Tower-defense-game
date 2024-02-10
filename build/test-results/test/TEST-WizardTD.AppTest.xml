@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="WizardTD.AppTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-10-27T11:50:51" hostname="teresadndiannao.student.wireless.sydney.edu.au" time="0.032">
+  <properties/>
+  <testcase name="testIsValidMove()" classname="WizardTD.AppTest" time="0.028"/>
+  <testcase name="testUpDateMap()" classname="WizardTD.AppTest" time="0.003"/>
+  <testcase name="testCheckPath()" classname="WizardTD.AppTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

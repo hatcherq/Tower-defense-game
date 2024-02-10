@@ -1,0 +1,109 @@
+{
+  "layout": "level1.txt",
+  "waves": [
+    {
+      "duration": 5,
+      "pre_wave_pause": 2,
+	    "monsters": [
+        {
+          "type": "gremlin",
+          "hp": 100,
+          "speed": 1,
+          "armour": 0.5,
+          "mana_gained_on_kill": 50,
+          "quantity": 8
+        }
+	    ]
+    },
+    {
+      "duration": 5,
+      "pre_wave_pause": 5,
+      "monsters": [
+        {
+          "type": "worm",
+          "hp": 150,
+          "speed": 2,
+          "armour": 0.7,
+          "mana_gained_on_kill": 100,
+          "quantity": 2
+        },
+        {
+          "type": "gremlin",
+          "hp": 200,
+          "speed": 3,
+          "armour": 0.3,
+          "mana_gained_on_kill": 150,
+          "quantity":5
+        }
+      ]
+    },
+    {
+      "duration": 5,
+      "pre_wave_pause": 5,
+      "monsters": [
+        {
+          "type": "beetle",
+          "hp": 300,
+          "speed": 1,
+          "armour": 0.5,
+          "mana_gained_on_kill": 250,
+          "quantity": 7
+        }
+      ]
+    },
+    {
+      "duration": 8,
+      "pre_wave_pause": 5,
+      "monsters": [
+        {
+          "type": "worm",
+          "hp": 400,
+          "speed": 3,
+          "armour": 0.5,
+          "mana_gained_on_kill": 250,
+          "quantity": 6
+        }
+      ]
+    },
+    {
+      "duration": 5,
+      "pre_wave_pause": 5,
+      "monsters": [
+        {
+          "type": "beetle",
+          "hp": 400,
+          "speed": 2.5,
+          "armour": 0.5,
+          "mana_gained_on_kill": 250,
+          "quantity": 7
+        }
+      ]
+    },
+    {
+      "duration": 5,
+      "pre_wave_pause": 5,
+      "monsters": [
+        {
+          "type": "beetle",
+          "hp": 500,
+          "speed": 4,
+          "armour": 0.1,
+          "mana_gained_on_kill": 300,
+          "quantity": 7
+        }
+      ]
+    }
+  ],
+  "initial_tower_range": 96,
+  "initial_tower_firing_speed": 1.5,
+  "initial_tower_damage": 100,
+  "initial_mana": 200,
+  "initial_mana_cap": 1000,
+  "initial_mana_gained_per_second": 1,
+  "tower_cost": 10,
+  "mana_pool_spell_initial_cost": 100,
+  "mana_pool_spell_cost_increase_per_use": 150,
+  "mana_pool_spell_cap_multiplier": 1.5,
+  "mana_pool_spell_mana_gained_multiplier": 1.5
+}
+

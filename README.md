@@ -6,3 +6,6 @@ mana must be expended to banish it.
 
 The goal is to survive all waves of enemies without letting the
 wizard’s mana run down to 0.
+
+
+
